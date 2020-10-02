@@ -47,23 +47,11 @@ window.onload = function () {
   };
 
 /* 
-function createLayer() {
-    var source = new ol.source.WMTS({
-      url: 'https://gibs-{a-c}.earthdata.nasa.gov/wmts/epsg3857/best/wmts.cgi?TIME=' + dayParameter(),
-      layer: 'AIRS_L3_Carbon_Dioxide_AIRS_AMSU_Monthly',
-      format: 'image/jpeg',
-      matrixSet: 'EPSG3857_2km',
-      tileGrid: new ol.tilegrid.WMTS({
-        origin: [-193, 94],
-        resolutions: [
-          156543.03390625,
-          112345.09876544,
-          305.7481131407048,
-        ],
-        matrixIds: [0, 1, 2, 3, 4, 5, 6, 7, 8],
-        tileSize: 512
-      })
-    });
+     // Replace these layers with given layer to study these observations
+      layer: 'AIRS_L2_Carbon_Monoxide_500hPa_Volume_Mixing_Ratio_Day',   // Carbon_Monoxide
+      layer: 'MLS_CO_215hPa_Day',                                        // Methane
+      layer: 'OMI_Nitrogen_Dioxide_Tropo_Column',                        // Nitrogendioxide
+
 
 */
 
