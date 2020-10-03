@@ -51,6 +51,7 @@ window.onload = function () {
       layer: 'AIRS_L2_Carbon_Monoxide_500hPa_Volume_Mixing_Ratio_Day',   // Carbon_Monoxide
       layer: 'MLS_CO_215hPa_Day',                                        // Methane
       layer: 'OMI_Nitrogen_Dioxide_Tropo_Column',                        // Nitrogendioxide
+      layer: 'AIRS_L2_Temperature_850hPa_Day',                           // Temperature
 
 
 */
@@ -58,7 +59,7 @@ window.onload = function () {
 function createLayer() {
     var source = new ol.source.WMTS({
       url: 'https://gibs-{a-c}.earthdata.nasa.gov/wmts/epsg4326/best/wmts.cgi?TIME=' + dayParameter(),
-      layer: 'AIRS_L2_Temperature_850hPa_Day',
+      layer: 'OMI_Nitrogen_Dioxide_Tropo_Column',
       format: 'image/png',
       matrixSet: 'EPSG4326_2km',
       tileGrid: new ol.tilegrid.WMTS({
