@@ -1,4 +1,4 @@
-# 🤖 [NASA Space Apps 2020] 🛰️ 
+# 🤖 [NASA Space Apps Hackathon 2020] 🛰️ 
 
 Challenge: What is our carbon footprint?
 The carbon footprint shows how much carbon dioxide and other greenhouse gases a person produces in everyday life.
