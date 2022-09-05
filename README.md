@@ -14,6 +14,14 @@ Here we find a solution for carbon footprint to build a clean and green atmosphe
 ### Sources of Green House Gases
 ![image](https://user-images.githubusercontent.com/69813792/188518848-e04c4009-5c33-4d94-9609-43292c40f9cd.png)
 
+Global greenhouse gas emissions can also be broken down by the economic activities that lead to their production.
+Electricity and Heat Production:- The burning of coal, natural gas, and oil for electricity and heat is the largest single source of global greenhouse gas emissions.
+Industry:- Greenhouse gas emissions from industry primarily involve fossil fuels burned on site at facilities for energy.
+Forestry:- Greenhouse gas emissions from this sector come mostly from agriculture (cultivation of crops and livestock) and deforestation.
+Transportation:- Greenhouse gas emissions from this sector primarily involve fossil fuels burned for road, rail, air, and marine transportation.
+Building:- Greenhouse gas emissions from this sector arise from onsite energy generation and burning fuels for heat in buildings or cooking in homes.
+Other Energy:- This source of greenhouse gas emissions refers to all emissions from the Energy sector which are not directly associated with electricity or heat production, such as fuel extraction, refining, processing, and transportation.
+
 ### Green House Gas Emissions by Gas
 ![image](https://user-images.githubusercontent.com/69813792/188518898-c7c3e8e5-8f2b-462e-b802-b93d224aa37a.png)
 
@@ -32,6 +40,9 @@ UGRD, VGRD: Wind speed vectors from HRRR
 HPBL: Height of Planetary Boundary Layer from HRRR
 TMP: Temperature recorded from HRRR
 goes_measurement: AOD reading from GOES R
+
+![image](https://user-images.githubusercontent.com/69813792/188519758-9387107f-9d31-4573-a136-221cca58202b.png)
+
 
 ### Libraries
 
@@ -66,3 +77,17 @@ API url: "https://sreejagundu.github.io/NASA/"
 This url visualizes the temperature variations due to increase in GHG emissions. To visualize satellite data and variations of CO, CH4 and NO2, edit the 'layers' in path  NASA/GIBSapi/main.js/.
 
 
+## Solution
+
+Prepare a paint with artificial chloroplast as one of its constituent element.
+
+Tint the paint on any outer surfaces like buildings, cars, etc.
+
+Chloroplast will capture carbondioxide from the atmosphere. Further, it may be possible that it releases oxygen in presence of sunlight.
+
+It can be used with basic knowledge and economically feasible.
+
+![image](https://user-images.githubusercontent.com/69813792/188519804-37993781-8020-4419-8b55-e30c6ed51cd1.png)
+
+
+This solution optimizes carbon footprints from environment in a eco-friendly way.
