@@ -16,10 +16,15 @@ Here we find a solution for carbon footprint to build a clean and green atmosphe
 
 Global greenhouse gas emissions can also be broken down by the economic activities that lead to their production.
 Electricity and Heat Production:- The burning of coal, natural gas, and oil for electricity and heat is the largest single source of global greenhouse gas emissions.
+
 Industry:- Greenhouse gas emissions from industry primarily involve fossil fuels burned on site at facilities for energy.
+
 Forestry:- Greenhouse gas emissions from this sector come mostly from agriculture (cultivation of crops and livestock) and deforestation.
+
 Transportation:- Greenhouse gas emissions from this sector primarily involve fossil fuels burned for road, rail, air, and marine transportation.
+
 Building:- Greenhouse gas emissions from this sector arise from onsite energy generation and burning fuels for heat in buildings or cooking in homes.
+
 Other Energy:- This source of greenhouse gas emissions refers to all emissions from the Energy sector which are not directly associated with electricity or heat production, such as fuel extraction, refining, processing, and transportation.
 
 ### Green House Gas Emissions by Gas
